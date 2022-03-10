@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Calendar\DayView\bin\Release\Calendar.DayView.dll
+C:\Users\Administrator\Desktop\Calendar\DayView\bin\Release\Calendar.DayView.pdb
+C:\Users\Administrator\Desktop\Calendar\DayView\bin\Release\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\Calendar\DayView\bin\Release\MetroFramework.dll
+C:\Users\Administrator\Desktop\Calendar\DayView\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\Calendar\DayView\obj\Release\DayView.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Calendar\DayView\obj\Release\DayView.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Calendar\DayView\obj\Release\DayView.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Calendar\DayView\obj\Release\Calendar.DayView.dll
+C:\Users\Administrator\Desktop\Calendar\DayView\obj\Release\Calendar.DayView.pdb

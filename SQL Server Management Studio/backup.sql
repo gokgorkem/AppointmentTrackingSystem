@@ -1,0 +1,1 @@
+backup database RandevuDatabase to disk = 'D:\randevu.bak' ;
